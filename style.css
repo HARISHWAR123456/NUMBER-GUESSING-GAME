@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 500px;
+    width: 400px;
+  background-color: burlywood;
+  text-align: center;
+  padding-top: 100px;
+  text-transform:uppercase;
+  
+}
+.num1{
+    padding-top: 50px;
+    font-size: 20px;
+}
+#num{
+    height: 40px;
+    margin-top: 30px;
+}
+#button1{
+    height: 20px;
+    width: 70px;
+    margin-top: 30px;
+}
